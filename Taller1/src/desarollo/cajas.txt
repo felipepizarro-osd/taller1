@@ -1,0 +1,1 @@
+Knife,99,30,Lore,5,Doppler,5,Ultraviolet,15,Safari Mesh,20,Boreal,Fores,20,Night,30,Autotronic,5
